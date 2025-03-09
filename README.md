@@ -59,5 +59,5 @@ This project is licensed under the MIT License.
 
 📧 Contact
 For any inquiries, feel free to reach out:
-📩 poornimarathnasingha.com
+📩 poornimarathnasingha@gmail.com
 🔗 https://github.com/PoornimaRathnasinghe
